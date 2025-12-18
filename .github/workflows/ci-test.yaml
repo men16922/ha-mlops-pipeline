@@ -3,7 +3,7 @@
 #
 # 트리거: main/develop 브랜치 푸시 또는 PR
 
-name: CI - Test & Build
+name: CI - Test & Build - test
 
 on:
   push:
